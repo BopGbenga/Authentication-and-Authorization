@@ -1,0 +1,8 @@
+[
+  { "Name": "Designer", "Size": "Extra-large", "prize": "$50", "id": 1 },
+  { "Name": "Desktop", "Size": "big", "prize": "$5000", "id": 2 },
+  { "Name": "Laptop", "Size": "BIG", "prize": "$7000", "id": 3 },
+  { "Name": "Desktop", "Size": "medium", "prize": "$700", "id": 4 },
+  { "Name": "Keyboard", "Size": "small", "prize": "$50", "id": 5 },
+  { "Name": "Laptop-bag", "Size": "Meduim", "prize": "$120", "id": 6 }
+]

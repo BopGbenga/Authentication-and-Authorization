@@ -1,0 +1,44 @@
+[
+  {
+    "username": "Matthew",
+    "password": "Matthew12",
+    "api_key": "Matthew_matthew12",
+    "user_type": "admin"
+  },
+  {
+    "username": "Dayo",
+    "password": "Dayo13",
+    "api_key": "Dayo_Dayo13",
+    "user_type": "user"
+  },
+  {
+    "username": "shola",
+    "password": "shola13",
+    "api_key": "shola_shola12",
+    "user_type": "user"
+  },
+  {
+    "username": "Shola",
+    "password": "sholay",
+    "api_key": "Shola_sholay",
+    "user_type": "user"
+  },
+  {
+    "username": "Gbenga",
+    "password": "Bello23",
+    "api_key": "Gbenga_Bello23",
+    "user_type": "admin"
+  },
+  {
+    "username": "JOHN",
+    "password": "JOHNSON",
+    "api_key": "JOHN_JOHNSON",
+    "user_type": "user"
+  },
+  {
+    "username": "Dara",
+    "password": "simi",
+    "api_key": "Dara_simi",
+    "user_type": "user"
+  }
+]
